@@ -1,0 +1,3 @@
+include ':Lib_recyclerview_databinding'
+include ':app'
+rootProject.name = "BaseRecyclerView_DataBinding"
